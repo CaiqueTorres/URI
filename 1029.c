@@ -1,3 +1,5 @@
+/*URI - 1029*/
+
 #include <stdio.h>
 
 void call(int);
@@ -53,4 +55,3 @@ void call(int x)
 			call(b);
 	}
 }
-

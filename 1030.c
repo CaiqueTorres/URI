@@ -1,3 +1,5 @@
+/*URI - 1030*/
+
 #include <stdio.h>
 
 int josephus(int*, int, int);
@@ -60,4 +62,3 @@ int josephus(int* vector, int n, int k)
 			}
 	return q;
 }
-

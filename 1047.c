@@ -1,4 +1,5 @@
-//URI - 1047
+/*URI - 1047*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

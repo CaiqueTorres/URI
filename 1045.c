@@ -1,4 +1,5 @@
-/*Programa que diz o nome e o tipo do triângulo*/
+/*URI - 1045*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -72,4 +73,3 @@ int main()
 	system("PAUSE");
 	return 0;
 }
-

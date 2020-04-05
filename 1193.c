@@ -1,3 +1,5 @@
+/*URI - 1193*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -127,7 +129,7 @@ int main()
 			
 		} else if (type[0] = 'b')
 		{
-			//Binário
+			//Binï¿½rio
 			dec = bin_for_dec(num1, strlen(num1));
 			printf("%lli dec\n", dec);
 			printf("%llx hex\n", dec);

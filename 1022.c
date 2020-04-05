@@ -1,3 +1,5 @@
+/*URI - 1022*/
+
 #include <stdio.h>
 
 void main()
@@ -42,4 +44,3 @@ void main()
 		printf("%i/%i\n",num,den);
 	}
 }
-

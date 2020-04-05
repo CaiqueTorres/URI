@@ -1,3 +1,5 @@
+/*URI - 1031*/
+
 #include <stdio.h>
 
 int compare(int*, int);
@@ -42,7 +44,7 @@ int compare(int* vector, int tam)
 int search(int* vector, int tam, int k)
 {
 	static int cont = 0, n;
-	int i, x = 0; // variável x indica a quantidade de números que ainda não foram substituidos
+	int i, x = 0; // variï¿½vel x indica a quantidade de nï¿½meros que ainda nï¿½o foram substituidos
 	
 	for (i=0;i<tam;i++)
 	{
@@ -73,4 +75,3 @@ int search(int* vector, int tam, int k)
 			}
 	return n;
 }
-

@@ -1,3 +1,5 @@
+/*URI - 1158*/
+
 #include <stdio.h>
 
 void main() {
@@ -15,7 +17,7 @@ void main() {
 			}
 		}*/
 		for (j=X;cont<Y;j++) {
-			if (j%2!=0) { //obs: quando for criar a condição para números primos, nunca colocar ...%2==1, mas sim ...%2!=0.
+			if (j%2!=0) { //obs: quando for criar a condiï¿½ï¿½o para nï¿½meros primos, nunca colocar ...%2==1, mas sim ...%2!=0.
 				cont++;
 				sum+=j;
 			}
