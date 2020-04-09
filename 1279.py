@@ -1,6 +1,5 @@
 # URI - 1279
 
-
 first = True
 
 def define_year(year: int):
