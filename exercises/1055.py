@@ -1,4 +1,4 @@
-# URI - 1055 - ainda não finalizado
+# URI - 1055 - Ainda falta terminar
 
 from itertools import permutations
 from functools import reduce
