@@ -1,3 +1,5 @@
+# Ainda falta terminar
+
 from functools import reduce
 
 # def emoticon_in_string(string: str, emoticons: list) -> int:
