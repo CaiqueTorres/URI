@@ -35,10 +35,7 @@ void num_in_vec(int *vec, int num)
 	
 }
 
-
 int tam_num(int num)
 {
 	return log10(num) + 1;
 }
-
-
